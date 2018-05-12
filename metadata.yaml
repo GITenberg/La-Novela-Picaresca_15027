@@ -1,0 +1,31 @@
+_repo: La-Novela-Picaresca_15027
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Ruiz Morcuende, Federico
+    alias: Morcuende, Federico Ruiz
+    birthdate: 1890
+    gutenberg_agent_id: '6878'
+    url: http://www.gutenberg.org/2009/agents/6878
+description: ''
+gutenberg_issued: '2005-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15027'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction'
+- !lcsh 'Picaresque literature, Spanish'
+tableOfContents: 'La vida de Lazarillo de Tormes y de sus fortunas y adversidades
+  -- Cervantes: Rinconete y Cortadillo -- Don Francisco de Quevedo: Historia de la
+  vida del Buscón llamado Don Pablos, ejemplo de vagamundos y espejo de tacaños --
+  Mateo Alemán: Guzmán de Alfarache -- Luis Vélez de Guevara: El diablo cojuelo.'
+title: La Novela Picaresca
+url: http://www.gutenberg.org/ebooks/15027
